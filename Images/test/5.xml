@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>5.jpg</filename>
+	<path>E:\New folder\Images\test\5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2890</xmin>
+			<ymin>880</ymin>
+			<xmax>5503</xmax>
+			<ymax>3040</ymax>
+		</bndbox>
+	</object>
+</annotation>

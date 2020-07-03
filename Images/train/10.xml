@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>10.jpg</filename>
+	<path>E:\New folder\Images\train\10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3657</width>
+		<height>5486</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>932</xmin>
+			<ymin>225</ymin>
+			<xmax>2396</xmax>
+			<ymax>1561</ymax>
+		</bndbox>
+	</object>
+</annotation>
